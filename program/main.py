@@ -9,7 +9,7 @@ from kivymd.uix.label import MDLabel
 from kivy.uix.image import AsyncImage
 import openai
 
-openai.api_key = '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'
+openai.api_key = 'YOUR_API_KEY'
 
 KV = """
 <MainScreen>:
